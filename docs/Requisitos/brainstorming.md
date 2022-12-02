@@ -80,16 +80,16 @@ Guia para alunos da FGA.
 
 |Código|Descrição|
 |---|------|
-|BS0|Cadastro de notícias/eventos.|
-|BS0|Listar notícias/eventos.|
-|BS0|Conversa via chat.|
-|BS0|Cadastro de email para recebimento de notícias |
-|BS0|Recebimento de notícias por email.|
-|BS0|Remover o email cadastrado para recebimento de notícias.|
-|BS0|Cadastro/listagem/edição/deleção de empresas/equipes.|
-|BS0|Cadastro/listagem/edição/deleção dos cursos FGA.|
-|BS0|Cadastrar comentário em um notícia.|
-
+|BS01|Autenticação somente do usuário administrador/gerente do blog.|
+|BS02|Cadastro de notícias/eventos.|
+|BS03|Listar notícias/eventos.|
+|BS04|Conversa via chat.|
+|BS05|Cadastro de email para recebimento de notícias (opcional).|
+|BS06|Recebimento de notícias por email.|
+|BS07|Remover o email cadastrado para recebimento de notícias.|
+|BS08|Cadastro/listagem/edição/deleção de empresas/equipes.|
+|BS09|Cadastro/listagem/edição/deleção dos cursos FGA.|
+|BS010|Cadastrar comentário em uma notícia.|
 
 
 ## 8. Histórico de versões
